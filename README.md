@@ -4,10 +4,10 @@
 ### 技術系
 |No.| 名前 | 感想 | 進捗 | LINK |開始|終了|
 |:-:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|Androidテスト全書 | |0% |[Amazon][tech1]|||
+|1|Androidテスト全書 |                                  |0% |[Amazon][tech1]|||
 |2|Kotlinスタートブック| 振り返りにめっちゃいい <br> 定期的に読む |20%|[Amazon][tech2]|||
-|3|詳解 Kotlin Coroutine| 60%| |'21/1/28||[Zenn][tech3]|
-|4|Effective Kotlin| 0% | |||[Leanpub][tech4]|
+|3|詳解 Kotlin Coroutine|                              |60% |[Zenn][tech3]|'21/1/28||
+|4|Effective Kotlin|                                | 0%|[Leanpub][tech4]|||
 
 
 
